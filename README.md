@@ -29,7 +29,7 @@ Is written in C# for the Windows plattform and has the following features:
 
 ## Documentation
 
-Please look at the [Wiki](https://github.com/s3huber/KeyboardX/wiki) for documentation, examples and other information.
+Please look at the [wiki](https://github.com/s3huber/KeyboardX/wiki) for documentation, examples and other information.
 
 ## Contribution
 
