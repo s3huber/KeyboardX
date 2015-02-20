@@ -33,7 +33,7 @@ Please look at the [wiki](https://github.com/s3huber/KeyboardX/wiki) for documen
 
 ## Contribution
 
-If you like or find this software useful, please consider to solve one or two [issues](https://github.com/s3huber/KeyboardX/issues).
+If you like or find this software useful, please consider to solve one or two [issues]( https://github.com/s3huber/KeyboardX/issues?q=is%3Aopen+is%3Aissue+label%3Atodo).
 
 ## License
 
