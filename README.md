@@ -1,6 +1,6 @@
 # KeyboardX
 
-KeyboardX is a multi-purpose on-screen keyboard. It was designed with the needs of handicapped persons in mind. Due to it's flexibility it can be used for several tasks though. Find more in [features](#features).
+KeyboardX is a multi-purpose on-screen keyboard. It was designed with the needs of handicapped persons in mind. Due to its flexibility it can be used for several tasks though. Find more in [features](#features).
 
 It was originally developed as a master thesis project for [Institut Integriert Studieren](http://jku.at/iis) at [JKU](http://jku.at). Currently it's hosted as an open source project by [Kompetenznetzwerk KI-I ](http://ki-i.at).
 
@@ -12,7 +12,7 @@ Further a graphical editor for building keyboard files comfortably is planed.
 
 ### Keyboards
 
-A keyboard is basically a XML file which is defined by a XML Schema. A keyboard contains one or several grids. The player shows one grid at a time. Keyboards allow a very flexible structure.
+A keyboard is basically a XML file which is defined by XML Schema. A keyboard contains one or several grids. The player shows one grid at a time. Keyboards allow a very flexible structure.
 
 ### Player
 
